@@ -4,9 +4,10 @@ This project was developed as part of a Data Science course and focuses on predi
 The project applies core data science workflows to support **customer segmentation** and **marketing strategy optimization**.
 
 ### Approach
-Performed data preprocessing and exploratory data analysis (EDA)
-Implemented and evaluated multiple machine learning classifiers
-Compared model performance to select the best-performing approach
+- Performed data preprocessing and exploratory data analysis (EDA)
+- Implemented and evaluated multiple machine learning classifiers
+- Compared model performance to select the best-performing approach
+
 ### Models Implemented
 - K-Nearest Neighbors (KNN).
 - Decision Tree.
@@ -18,4 +19,14 @@ Compared model performance to select the best-performing approach
 - Python.
 - Pandas, NumPy.
 - Scikit-learn.
-- Matplotlib, Seaborn.
+- Matplotlib, Seaborn.## Collaboration
+  
+## Collaboration
+This project was completed as a **group project** as part of a Data Science course.
+
+**My main contributions included:**
+- Comparing and evaluating multiple machine learning models.
+- Participating in data preprocessing and exploratory data analysis (EDA).
+- Collaborating with team members across all project stages.
+
+
