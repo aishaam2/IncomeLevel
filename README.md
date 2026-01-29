@@ -10,7 +10,6 @@ Compared model performance to select the best-performing approach
 - Decision Tree.
 - Naive Bayes.
 - Random Forest.
-
 #### K-Nearest Neighbors (KNN) achieved the highest accuracy and was selected as the final model.
 
 ### Tools & Technologies
