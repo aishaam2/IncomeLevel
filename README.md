@@ -1,6 +1,6 @@
 # Income Level Prediction (Adult Income Dataset)
 ### Project Overview
-This project was developed as part of a Data Science course and focuses on predicting individual income levels (≤ $50K or > $50K) using demographic and socioeconomic data from the Adult Income dataset.  
+This project focuses on predicting individual income levels (≤ $50K or > $50K) using demographic and socioeconomic data from the Adult Income dataset.  
 The project applies core data science workflows to support **customer segmentation** and **marketing strategy optimization**.
 
 ### Approach
